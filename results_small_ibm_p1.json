@@ -1,0 +1,43 @@
+{
+ "shots": 4096,
+ "valid_frac": 0.009521484375,
+ "optimal_frac": 0.001708984375,
+ "random_valid_frac": 0.000244140625,
+ "mean_qubo_cost": 3249.6278398383147,
+ "best_cost": 432.4766484801678,
+ "best_path": [
+  [
+   0,
+   0
+  ],
+  [
+   1,
+   0
+  ],
+  [
+   2,
+   0
+  ],
+  [
+   3,
+   1
+  ],
+  [
+   3,
+   2
+  ],
+  [
+   3,
+   3
+  ]
+ ],
+ "mode": "ibm",
+ "instance": "small",
+ "layers": 1,
+ "qubits": 14,
+ "backend": "ibm_fez",
+ "job_id": "dbuocbf82tmc73dtp0lg",
+ "dijkstra_cost": 432.4766484801678,
+ "ideal_valid_frac": 0.019909292883703404,
+ "ideal_optimal_frac": 0.005105530561312362
+}

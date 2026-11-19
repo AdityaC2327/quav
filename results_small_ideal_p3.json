@@ -1,0 +1,43 @@
+{
+ "shots": 4096,
+ "valid_frac": 0.138427734375,
+ "optimal_frac": 0.033203125,
+ "random_valid_frac": 0.000244140625,
+ "mean_qubo_cost": 1716.574590685974,
+ "best_cost": 432.4766484801678,
+ "best_path": [
+  [
+   0,
+   0
+  ],
+  [
+   0,
+   1
+  ],
+  [
+   0,
+   2
+  ],
+  [
+   1,
+   3
+  ],
+  [
+   2,
+   3
+  ],
+  [
+   3,
+   3
+  ]
+ ],
+ "mode": "ideal",
+ "instance": "small",
+ "layers": 3,
+ "qubits": 14,
+ "backend": "statevector",
+ "job_id": null,
+ "dijkstra_cost": 432.4766484801678,
+ "ideal_valid_frac": 0.14186478016173037,
+ "ideal_optimal_frac": 0.03301730802109594
+}
